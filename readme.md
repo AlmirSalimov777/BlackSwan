@@ -1,6 +1,6 @@
-# Overview of MakerDAO design ⬙
+# Overview of Maker design ⬙
 
-This page serves as a wiki for the MakerDAO design team. Its meant to serve both the community and internal Maker members. On this page you will find all assets, designs, research and contact details for the [Maker](https://makerdao.com/) design team. 
+This page serves as a wiki for the Maker design team. It serves both the community and internal Maker members. On this page you will find assets, prototypes, research and contact details for the [Maker](https://makerdao.com/) design team. 
 
 ## Contents
 [Design team →](https://github.com/hcdoe/Overview-of-MakerDAO-design#design-team)
@@ -20,7 +20,7 @@ This page serves as a wiki for the MakerDAO design team. Its meant to serve both
 ---
 
 ## Design team
-We are a remote design team of four. Currently located in Asia, UK, USA and Canda. We're looking to add an [experienced product designer](https://makerdao.com/careers/product-designer) to join the team
+We are a remote design team of four. Currently located in Asia, UK, USA and Canada. We're looking to add an [experienced product designer](https://makerdao.com/careers/product-designer) to join the team.
 
 •  **Henry Doe**, design team lead [@henry](https://chat.makerdao.com/home)
 
@@ -31,7 +31,7 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 •  **Michael McKain**, product designer [@mikemckain](https://chat.makerdao.com/home)
 
 ## Projects we're working on
-•  [CDP portal →](https://www.figma.com/file/L89YEqsCYo0yZ07Lwc5dVBaJ/Multi-Collateral-CDP-Portal?node-id=168%3A12)
+•  [CDP Portal →](https://www.figma.com/file/L89YEqsCYo0yZ07Lwc5dVBaJ/Multi-Collateral-CDP-Portal?node-id=168%3A12)
 
 •  [Governance →](https://www.figma.com/file/P3WU8leDECFDItgLx4gh22t9/Governance?node-id=227%3A11)
 
@@ -39,7 +39,7 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 
 •  Dai Savings →
 
-•  Dai and MKR Redeemer →
+•  Redeemer →
 
 •  [Design system →](https://www.figma.com/file/WD1TVy5hFtVkWgd7hvhbzFIe/Components?node-id=1595%3A36)
 
@@ -146,7 +146,7 @@ We're always keep to hear from people using the Maker system. If you have any qu
 
 
 ## Style guide
-These resources help unify brand, marketing, and product experience across Maker. Share your questions and thoughts in the Rocketchat room [#design-system-internal](https://chat.makerdao.com/home)
+These resources help unify brand, marketing, and product experience across Maker. Share your questions and thoughts in the Rocket.Chat room [#design-system-internal](https://chat.makerdao.com/home)
 
 ### Color
 
@@ -157,7 +157,7 @@ These resources help unify brand, marketing, and product experience across Maker
 •  Dai yellow ![#FDC134](https://placehold.it/15/FDC134/000000?text=+) `#FDC134`
 
 ### Logos
-• [Logo for MakerDAO](https://github.com/makerdao/Overview-of-MakerDAO-design/tree/master/MakerDAO). To be used for MakerDAO
+• [Logo for Maker](https://github.com/makerdao/Overview-of-MakerDAO-design/tree/master/MakerDAO). To be used for MakerDAO
 
 • [Icon for MKR](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/MKR). To be used for MKR the token
 
