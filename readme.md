@@ -1,6 +1,6 @@
 # Overview of Maker design ⬙
 
-This page serves as a wiki for the Maker design team. It serves both the community and internal Maker members. On this page you will find assets, prototypes, research and contact details for the [Maker](https://makerdao.com/) design team. 
+On this page you will find assets for the [Maker](https://makerdao.com/) design team. 
 
 ## Contents
 
