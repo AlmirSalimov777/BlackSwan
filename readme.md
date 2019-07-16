@@ -67,10 +67,6 @@ These resources help unify brand, marketing, and product experience across Maker
 
 •  **Avoid promotional language**
 
-
-### Terminology
-A full list of [terms and definitions →](https://airtable.com/shr93DOZR1FHNJv4Y/tblv6XRHv27cAvKad)
-
 ---
 
 
